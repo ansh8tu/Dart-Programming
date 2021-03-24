@@ -12,5 +12,5 @@ void main() {
   players.removeAt(1);
   print(players);
 
-  //many methods are available you can check them out as well
+  //many methods are available you can check them out as well!
 }
