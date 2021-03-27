@@ -20,4 +20,6 @@ void main() {
   //The name of student is : Sam
   print("The name of student is : " + Student['name'].toString());
   print("The name of student is : " + Student1['name'].toString());
+
+  print(Student1);
 }
